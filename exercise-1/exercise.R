@@ -1,6 +1,7 @@
 # Exercise 1: Loading functions
 
 # Set your directory
+setwd("~/Desktop/INFO201/m18-shiny/exercise1/")
 
 
 # Source your BuildScatter.r script, exposing your BuildScatter function
